@@ -38,7 +38,7 @@ for cat, indices in buckets.items():
     pct = len(indices) / total * 100
     print(f"  {cat}: {len(indices):,} ({pct:.1f}%)")
 
-targets = {"no_answer": 27, "single_word": 15, "short": 33, "long": 75}
+targets = {"no_answer": 18, "single_word": 10, "short": 37, "long": 35}
 selected_indices = set()
 for cat, count in targets.items():
     pool = buckets[cat]
