@@ -30,7 +30,7 @@ All models run on Google Colab (T4 GPU) with 4-bit quantization (bitsandbytes NF
 |---|---|---|---|
 | Llama 3.1 8B Instruct | 8B | `notebook_llama.ipynb` | [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) |
 | Mistral 7B Instruct v0.3 | 7B | `notebook_mistral.ipynb` | [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) |
-| Gemma 3 4B IT | 4B | `notebook_gemma.ipynb` | [google/gemma-3-4b-it](https://huggingface.co/google/gemma-3-4b-it) |
+| Gemma 4 E4B IT | Е4B | `notebook_gemma.ipynb` | [google/gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B) |
 
 ## Evaluation
 
